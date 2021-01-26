@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TAP_U5_Ejercicio3</string>
+    <array name="opcionesprincipales">
+        <item>Objetos basicos</item>
+        <item>LinearLayout</item>
+        <item>GridLayout</item>
+        <item>TableLayout</item>
+    </array>
+    <array name="itemspinner">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Cafe</item>
+    </array>
+</resources>
